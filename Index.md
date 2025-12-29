@@ -1,3 +1,3 @@
-# MobarezJavanmard
-Academic homepage of an independent researcher in philosophy and film-philosophy.
-https://doi.org/10.5281/zenodo.18058954
+Academic homepage of Mobarez Javanmard.
+
+This repository is used to publish a GitHub Pages site for academic and research purposes.
